@@ -1,0 +1,1 @@
+// link to hw - https://github.com/ReachTheEndStudy/codewars/blob/main/7%20kyu/4.js
