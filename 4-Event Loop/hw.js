@@ -1,12 +1,11 @@
 /*
 
 Теория:
-1. https://learn.javascript.ru/promise-basics
-2. https://learn.javascript.ru/promise-chaining
-3. https://learn.javascript.ru/promise-error-handling
-4. https://learn.javascript.ru/promise-api
-5. https://learn.javascript.ru/promisify
-6. https://doka.guide/js/promise/
+1. https://learn.javascript.ru/microtask-queue
+2. https://learn.javascript.ru/event-loop
+3. https://doka.guide/js/micro-and-macro-tasks/
+4. https://www.youtube.com/watch?v=377qAu37OTE
+5. https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 
 Практика: 
